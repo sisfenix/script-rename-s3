@@ -1,0 +1,11 @@
+bolinhadegude0,bolinhadegude0.txt
+bolinhadegude1,bolinhadegude1.txt
+bolinhadegude2,bolinhadegude2.txt
+bolinhadegude3,bolinhadegude3.txt
+bolinhadegude4,bolinhadegude4.txt
+bolinhadegude5,bolinhadegude5.txt
+bolinhadegude6,bolinhadegude6.txt
+bolinhadegude7,bolinhadegude7.txt
+bolinhadegude8,bolinhadegude8.txt
+bolinhadegude9,bolinhadegude9.txt
+

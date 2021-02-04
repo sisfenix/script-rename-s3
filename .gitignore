@@ -1,0 +1,4 @@
+temp/*
+*.swp
+log_*.txt
+error_*.txt
