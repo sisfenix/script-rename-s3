@@ -23,7 +23,7 @@ do
   var_origem=$(echo $I | cut -f 1 -d',')
   var_destino=$(echo $I | cut -f 2 -d',')
 
-  echo "movendo arquivo de s3://$var_bucket_origem/$var_origem para s3://var_bucket_destino/$var_destino..."
+  echo "movendo arquivo de s3://$var_bucket_origem/$var_origem para s3://$var_bucket_destino/$var_destino..."
   aws s3 mv s3://$var_bucket_origem/$var_origem s3://$var_bucket_destino/$var_destino 2>> error_$$.txt 1>> log_$$.txt
 done
 echo 
